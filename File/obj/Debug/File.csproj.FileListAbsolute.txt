@@ -1,0 +1,12 @@
+C:\Users\Xiaomi\source\repos\File\File\bin\Debug\File.exe.config
+C:\Users\Xiaomi\source\repos\File\File\bin\Debug\File.exe
+C:\Users\Xiaomi\source\repos\File\File\bin\Debug\File.pdb
+C:\Users\Xiaomi\source\repos\File\File\bin\Debug\MetroFramework.dll
+C:\Users\Xiaomi\source\repos\File\File\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Xiaomi\source\repos\File\File\obj\Debug\File.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\File\File\obj\Debug\File.Form1.resources
+C:\Users\Xiaomi\source\repos\File\File\obj\Debug\File.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\File\File\obj\Debug\File.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\File\File\obj\Debug\File.csproj.CopyComplete
+C:\Users\Xiaomi\source\repos\File\File\obj\Debug\File.exe
+C:\Users\Xiaomi\source\repos\File\File\obj\Debug\File.pdb
